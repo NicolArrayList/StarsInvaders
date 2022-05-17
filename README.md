@@ -7,6 +7,6 @@ Use arrow kays to move your X-Wing and SpaceBar to shoot TIE fighters !
 
 Be careful, you only have 3 ammo before you overheat your blasters. Your shield can take damage but is not infinite either!
 
-https://github.com/NicolArrayList/StarsInvaders/blob/main/screenshots/Capture%20d’écran%202022-05-16%20230248.png
+![alt text](https://github.com/NicolArrayList/StarsInvaders/blob/main/screenshots/Capture%20d’écran%202022-05-16%20230248.png)
 
-https://github.com/NicolArrayList/StarsInvaders/blob/main/screenshots/Capture%20d’écran%202022-05-16%20230447.png
+![alt text](https://github.com/NicolArrayList/StarsInvaders/blob/main/screenshots/Capture%20d’écran%202022-05-16%20230447.png)
